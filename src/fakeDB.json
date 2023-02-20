@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@johndoe.com",
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "email": "janedoe@janedoe.com",
+    "is_active": false
+  },
+  {
+    "id": 3,
+    "name": "John Smith",
+    "email": "johnsmith@johnsmith.com",
+    "is_active": true
+  }
+]
